@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Eu sou Filipe Holanda 👋
 
-<!--
-**Holandess/holandess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Programador Backend Sênior** com mais de 8 anos de experiência em desenvolvimento de sistemas. Tenho experiência com várias tecnologias como **Go**, **Node.js**, **Python**, e estou sempre buscando aprender mais e melhorar minhas habilidades.
 
-Here are some ideas to get you started:
+## 🚀 Minhas habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Tecnologias**: Go, Node.js, TypeScript, Python, Docker, AWS, Azure, Kafka, Redis
+- 🛠 **Ferramentas**: Git, Docker, Jenkins, Kubernetes, CI/CD
+- 💡 **Metodologias**: Scrum, Kanban, SOLID, Clean Architecture
+- 🔍 **Áreas de interesse**: Arquitetura de sistemas, escalabilidade, otimização de performance
+
+## 📫 Como me encontrar
+
+- ✨ [LinkedIn](www.linkedin.com/in/filipe-holanda)
+- 📧 Email: [filipeholanda.lins@gmail.com](filipeholanda.lins@gmail.com)
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=holandess&show_icons=true&hide_title=true)
