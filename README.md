@@ -11,7 +11,7 @@ Sou um **Programador Backend Sênior** com mais de 8 anos de experiência em des
 
 ## 📫 Como me encontrar
 
-- ✨ [LinkedIn](www.linkedin.com/in/filipe-holanda)
+- ✨ LinkedIn: [LinkedIn](www.linkedin.com/in/filipe-holanda)
 - 📧 Email: [filipeholanda.lins@gmail.com](filipeholanda.lins@gmail.com)
 
 ## 📈 GitHub Stats
